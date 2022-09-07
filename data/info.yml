@@ -1,8 +1,14 @@
 ---
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title: "Spotlight"
+title: "Geschichte des Felsens"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Vor 20 Jahren sah Hansi Nachname bei einer Skitour zum ersten Mal den Felsen und stellte sich die Kletterrouten vor, die noch kommen würden.
+
+  Jahre später besuchte Hansi bei einem Sommerausflug die Heidelberger Hütte und erinnerte sich an den großen Stein. Damals teilte er seine Idee dem Hüttenwart Losli mit, der seine volle Unterstützung anbot. Dann begannen die Arbeiten zur Entwicklung des alpinen Klettergartens.
+
+  Mit dem Bohren der Kletterrouten wurde im Sommer 2016 begonnen.
+
+  bla bla bla bla
 button:
   label: "Learn More"
   link: "#"
