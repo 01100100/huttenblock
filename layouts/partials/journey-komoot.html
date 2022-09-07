@@ -1,12 +1,11 @@
 <!-- Spotlight -->
-<section class="spotlight {{ .style }}" {{ with .id }} id="{{ . }}" {{ end }}>
+<section class="spotlight {{ .style }}" id="{{ .id }}">
     <div class="content">
-        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-        {{ with .komoot_collection_embed}}{{ . | safeHTML }}{{ end }}
+        <h3>{{ .title }}</h3>
+        <p>{{ .content | safeHTML }}</p>
+        {{ .komoot_collection_embed | safeHTML }}
     </div>
-    {{ with .image }}
     <div class="image">
-        <img src="{{ . }}" alt="" />
+        <img src="{{ .image }}" alt="" />
     </div>
-    {{ end }}
 </section>
