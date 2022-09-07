@@ -1,0 +1,122 @@
+{
+  "1": {
+    "number": "1",
+    "description": "TODO",
+    "name": "Warm Up",
+    "grade": "6c+"
+  },
+  "2": {
+    "number": "2",
+    "description": "TODO",
+    "name": "Schön war´s",
+    "grade": "8a+"
+  },
+  "3": {
+    "number": "3",
+    "description": "TODO",
+    "name": "Für Conny**",
+    "grade": "Projekt"
+  },
+  "4": {
+    "number": "4",
+    "description": "TODO",
+    "name": "Seitensprung",
+    "grade": "7a+"
+  },
+  "5": {
+    "number": "5",
+    "description": "TODO",
+    "name": "Affengeil",
+    "grade": "7b"
+  },
+  "6": {
+    "number": "6",
+    "description": "TODO",
+    "name": "Murmele",
+    "grade": "7b+"
+  },
+  "7": {
+    "number": "7",
+    "description": "TODO",
+    "name": "Projekt**",
+    "grade": "Projekt"
+  },
+  "8": {
+    "number": "8",
+    "description": "TODO",
+    "name": "Gecco",
+    "grade": "8a+"
+  },
+  "9": {
+    "number": "9",
+    "description": "TODO",
+    "name": "Für Lisa (Kunstroute)",
+    "grade": "Projekt"
+  },
+  "10": {
+    "number": "10",
+    "description": "TODO",
+    "name": "Lafreinfernerspitze",
+    "grade": "7a+"
+  },
+  "11": {
+    "number": "11",
+    "description": "TODO",
+    "name": "Der letzte Alpinist",
+    "grade": "7c"
+  },
+  "12": {
+    "number": "12",
+    "description": "TODO",
+    "name": "Heidelbergerspitze",
+    "grade": "7b+"
+  },
+  "13": {
+    "number": "13",
+    "description": "TODO",
+    "name": "Piz Davo Dieu",
+    "grade": "7b+/7c"
+  },
+  "14": {
+    "number": "14",
+    "description": "TODO",
+    "name": "Zahnspitze",
+    "grade": "7b+/7c"
+  },
+  "15": {
+    "number": "15",
+    "description": "TODO",
+    "name": "Abendrot**",
+    "grade": "Projekt"
+  },
+  "16": {
+    "number": "16",
+    "description": "TODO",
+    "name": "Mondlicht**",
+    "grade": "Projekt"
+  },
+  "17": {
+    "number": "17",
+    "description": "TODO",
+    "name": "Sonnenaufgang**",
+    "grade": "Projekt"
+  },
+  "18": {
+    "number": 18,
+    "description": "TODO",
+    "name": "Piz Tasna",
+    "grade": "6c"
+  },
+  "19": {
+    "number": 19,
+    "description": "TODO",
+    "name": "Breite Krone",
+    "grade": "6c"
+  },
+  "20": {
+    "number": 20,
+    "description": "TODO",
+    "name": "Fluchthorn",
+    "grade": "6c+"
+  }
+}
