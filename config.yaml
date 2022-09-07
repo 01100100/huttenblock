@@ -1,0 +1,25 @@
+---
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+title: "Hüttenblock"
+theme: "hugo-story"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds: ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics: "your-google-analytics-id"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+Params:
+  description: "A site sharing climbing information for the Hüttenblock"
+  logo: "images/banner.jpg"
+  favicon: true
+  social:
+    email: "TODO:"
+    instagram: https://www.instagram.com/heidelbergerhuette
