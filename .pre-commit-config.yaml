@@ -9,7 +9,7 @@ repos:
       - id: check-yaml
       - id: check-toml
       - id: check-added-large-files
-        args: ["--maxkb=2000"]
+        args: ["--maxkb=3000"]
       - id: check-merge-conflict
       # - id: pretty-format-json
       - id: detect-private-key
@@ -32,6 +32,7 @@ repos:
     rev: v0.32.2
     hooks:
       - id: markdownlint
+        args: ["--disable", "MD013"]
   - repo: https://github.com/Yelp/detect-secrets
     rev: v1.3.0
     hooks:
